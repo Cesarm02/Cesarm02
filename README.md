@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cesar Estiven Mesa Medrano</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Sophos Solutions**
+- 🔭 I’m currently working on **Periferia It Group**
 
 - 🌱 I’m currently learning **Laravel, Spring boot, Api Connect**
 
