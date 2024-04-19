@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **NTT Data**
 
-- 🌱 I’m currently learning **Laravel, Spring boot, Api Connect**
+- 🌱 I’m currently work with **Java, Spring boot, Junit, SQL, Oracle**
+  
+-  I'm Learning **Node Js, Laravel, WebFlux, Api Connect**
 
 - 👯 I’m looking to collaborate on **Java - Php - Angular**
 
